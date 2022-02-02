@@ -1,0 +1,15 @@
+body {
+    background-color: red;
+}
+
+a { color: green; }
+a:hover { color: blue; }
+a:active { color: pink; }
+
+ul {
+    list-style-type: square;
+}
+
+ol { 
+    list-style-type: decimal-leading-zero;
+}
